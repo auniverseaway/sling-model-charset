@@ -1,0 +1,5 @@
+{
+    "jcr:primaryType": "nt:unstructured",
+    "sling:resourceType": "charset/localeContent",
+    "localeModalText": "testing 123"
+}
